@@ -1,21 +1,223 @@
 .row {
-  width: 100%;
+  width: 100vw;
   height: auto;
   text-align: center;
+  margin-bottom: 50px
 }
 .header {
   text-align: center;
 }
-
-.definition {
-  display: none;
+.well {
+  background-color: lightblue;
+  height: 200px;
 }
 
-.clickable {
+#definition1 {
+  display: none;
+}
+#definition2 {
+  display: none;
+}
+#definition3 {
+  display: none;
+}
+#definition4 {
+  display: none;
+}
+#definition5 {
+  display: none;
+}
+#definition6 {
+  display: none;
+}
+#definition7 {
+  display: none;
+}
+#definition8 {
+  display: none;
+}
+#definition9 {
+  display: none;
+}
+#definition10 {
+  display: none;
+}
+#definition11 {
+  display: none;
+}
+#definition12 {
+  display: none;
+}
+#definition13 {
+  display: none;
+}
+#definition14 {
+  display: none;
+}
+#definition15 {
+  display: none;
+}
+#definition16 {
+  display: none;
+}
+#definition17 {
+  display: none;
+}
+#definition18 {
+  display: none;
+}
+#definition19 {
+  display: none;
+}
+#clickable1 {
   cursor: pointer;
   color: black;
 }
 
-.clickable: hover {
+#clickable1: hover {
+  text-decoration: underline;
+}
+#clickable2 {
+  cursor: pointer;
+  color: black;
+}
+
+#clickable2: hover {
+  text-decoration: underline;
+}
+#clickable3 {
+  cursor: pointer;
+  color: black;
+}
+
+#clickable3: hover {
+  text-decoration: underline;
+}
+#clickable4 {
+  cursor: pointer;
+  color: black;
+}
+
+#clickable4: hover {
+  text-decoration: underline;
+}
+#clickable5 {
+  cursor: pointer;
+  color: black;
+}
+
+#clickable5: hover {
+  text-decoration: underline;
+}
+#clickable6 {
+  cursor: pointer;
+  color: black;
+}
+
+#clickable6: hover {
+  text-decoration: underline;
+}
+#clickable7 {
+  cursor: pointer;
+  color: black;
+}
+
+#clickable7: hover {
+  text-decoration: underline;
+}
+#clickable8 {
+  cursor: pointer;
+  color: black;
+}
+
+#clickable8: hover {
+  text-decoration: underline;
+}
+#clickable9 {
+  cursor: pointer;
+  color: black;
+}
+
+#clickable9: hover {
+  text-decoration: underline;
+}
+#clickable10 {
+  cursor: pointer;
+  color: black;
+}
+
+#clickable10: hover {
+  text-decoration: underline;
+}
+#clickable11 {
+  cursor: pointer;
+  color: black;
+}
+
+#clickable11: hover {
+  text-decoration: underline;
+}
+#clickable12 {
+  cursor: pointer;
+  color: black;
+}
+
+#clickable12: hover {
+  text-decoration: underline;
+}
+#clickable13 {
+  cursor: pointer;
+  color: black;
+}
+
+#clickable13: hover {
+  text-decoration: underline;
+}
+#clickable14 {
+  cursor: pointer;
+  color: black;
+}
+
+#clickable14: hover {
+  text-decoration: underline;
+}
+#clickable15 {
+  cursor: pointer;
+  color: black;
+}
+
+#clickable15: hover {
+  text-decoration: underline;
+}
+#clickable16 {
+  cursor: pointer;
+  color: black;
+}
+
+#clickable16: hover {
+  text-decoration: underline;
+}
+#clickable17 {
+  cursor: pointer;
+  color: black;
+}
+
+#clickable17: hover {
+  text-decoration: underline;
+}
+#clickable18 {
+  cursor: pointer;
+  color: black;
+}
+
+#clickable18: hover {
+  text-decoration: underline;
+}
+#clickable19 {
+  cursor: pointer;
+  color: black;
+}
+
+#clickable19: hover {
   text-decoration: underline;
 }
