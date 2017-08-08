@@ -1,0 +1,21 @@
+.row {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.header {
+  text-align: center;
+}
+
+.definition {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: black;
+}
+
+.clickable: hover {
+  text-decoration: underline;
+}
